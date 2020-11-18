@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "K8ZF3RE/FS//xm2Yr3Bq6ZUxYWH8RVl+AcobtVn3VZbFyvsar6u1AITjAiIAPSQQLbuJX7U27OMzz0HKpM1owQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alanc\\source\\repos\\Sorter\\Sorter\\Sorter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alanc\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\alanc\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

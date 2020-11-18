@@ -1,0 +1,11 @@
+C:\Users\alanc\source\repos\Sorter\Sorter\bin\Debug\netstandard2.0\Sorter.deps.json
+C:\Users\alanc\source\repos\Sorter\Sorter\bin\Debug\netstandard2.0\Sorter.dll
+C:\Users\alanc\source\repos\Sorter\Sorter\bin\Debug\netstandard2.0\Sorter.pdb
+C:\Users\alanc\source\repos\Sorter\Sorter\obj\Debug\netstandard2.0\Sorter.AssemblyInfoInputs.cache
+C:\Users\alanc\source\repos\Sorter\Sorter\obj\Debug\netstandard2.0\Sorter.AssemblyInfo.cs
+C:\Users\alanc\source\repos\Sorter\Sorter\obj\Debug\netstandard2.0\Sorter.csproj.CoreCompileInputs.cache
+C:\Users\alanc\source\repos\Sorter\Sorter\obj\Debug\netstandard2.0\Sorter.dll
+C:\Users\alanc\source\repos\Sorter\Sorter\obj\Debug\netstandard2.0\Sorter.pdb
+C:\Users\alanc\source\repos\Sorter\Sorter\bin\Debug\netstandard2.0\DS.dll
+C:\Users\alanc\source\repos\Sorter\Sorter\bin\Debug\netstandard2.0\DS.pdb
+C:\Users\alanc\source\repos\Sorter\Sorter\obj\Debug\netstandard2.0\Sorter.csproj.CopyComplete
