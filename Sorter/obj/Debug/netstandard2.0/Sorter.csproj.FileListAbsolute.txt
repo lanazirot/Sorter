@@ -9,3 +9,4 @@ C:\Users\alanc\source\repos\Sorter\Sorter\obj\Debug\netstandard2.0\Sorter.pdb
 C:\Users\alanc\source\repos\Sorter\Sorter\bin\Debug\netstandard2.0\DS.dll
 C:\Users\alanc\source\repos\Sorter\Sorter\bin\Debug\netstandard2.0\DS.pdb
 C:\Users\alanc\source\repos\Sorter\Sorter\obj\Debug\netstandard2.0\Sorter.csproj.CopyComplete
+C:\Users\alanc\source\repos\Sorter\Sorter\obj\Debug\netstandard2.0\Sorter.csprojAssemblyReference.cache
